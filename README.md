@@ -37,5 +37,7 @@ DB_PASSWORD=
  - For api and view search created single function
  - Make validation for return error if data type is not valid so get fast access to data
  - Also get data if empty return msg that no data exist
- - 
+ - return data if it exist in db with search
+
+   Note :- We can use boot strap for better UI 
 
